@@ -588,7 +588,7 @@ aws configure
 ## Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/chonuboy/AWS-3Tier-Infrastructure-Terraform.git
 cd aws-3tier-infrastructure-terraform
 ```
 
